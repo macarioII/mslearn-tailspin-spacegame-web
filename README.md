@@ -1,4 +1,3 @@
-[![Build Status](https://dev.azure.com/macariomcarulloil/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/macarioII.mslearn-tailspin-spacegame-web?branchName=failed-test)](https://dev.azure.com/macariomcarulloil/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=3&branchName=failed-test)
 
 # Contributing
 
